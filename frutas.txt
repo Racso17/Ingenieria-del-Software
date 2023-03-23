@@ -2,4 +2,6 @@ fresa
 melon
 maracuya
 banano
-papaya
+mora
+limon
+naranja
