@@ -2,3 +2,4 @@ fresa
 melon
 maracuya
 banano
+papaya
