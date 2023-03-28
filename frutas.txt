@@ -5,3 +5,5 @@ banano
 mora
 limon
 naranja
+melocoton
+sandia
